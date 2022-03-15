@@ -4,7 +4,5 @@ RENCANA KONTEN MUHZAY
   * framework
 - Javascript
   * framework
-    ^ Angular
     ^ React
 - php
-- vlog
