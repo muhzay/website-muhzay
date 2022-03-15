@@ -1,7 +1,10 @@
 RENCANA KONTEN MUHZAY
 
 - CSS
-  *framework
+  * framework
 - Javascript
+  * framework
+    ^ Angular
+    ^ React
 - php
 - vlog
